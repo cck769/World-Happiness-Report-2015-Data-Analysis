@@ -1,7 +1,5 @@
 /* 
 
-Creator: Palaniandy Sri 
-Student ID: 23063753
 Objective of program: To perform multiple linear regression analysis to identify the economic, social, health, freedom, generosity and government factors
 that significantly predict Happiness Score in the 2015 World Happiness dataset.
 
