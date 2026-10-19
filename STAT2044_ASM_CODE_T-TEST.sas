@@ -1,7 +1,5 @@
 /* 
 
-Creator: Liew Ke Yin
-Student ID: 24043010
 Objective of program: To perform an independent samples t-test to determine whether there is a significant difference in the 
 mean Happiness Score between countries with above-average and below-average GDP per Capita using the 2015 World Happiness dataset.
 
