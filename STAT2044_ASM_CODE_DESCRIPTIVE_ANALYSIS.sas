@@ -1,7 +1,5 @@
 /* 
 
-Creator: Hon Yu Xuan
-Student ID: 24038317
 Objective of program: 
 To perform descriptive and exploratory analysis of the 2015 World Happiness dataset by examining GDP category distributions, 
 summarising key study variables, comparing Happiness Scores between GDP categories, and analysing the relationships 
