@@ -1,7 +1,5 @@
 /* 
 
-Creator: Cheah Choon Keat 
-Student ID: 24104184 
 Objective of program: 
 To clean and prepare the World Happiness Report 2015 dataset by checking data quality, removing duplicate observations, 
 assessing variable normality, creating GDP categories for the t-test, and exporting the final cleaned dataset for statistical analysis.
